@@ -14,7 +14,7 @@ conda create --name ML python=3.11 -y
 conda activate ML
 ```
 
-2.Install PyQt
+2.Install Python libraries
 
 ```sh
 pip install -r requirements.txt
